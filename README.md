@@ -8,7 +8,7 @@ It automates key steps like handling missing values, encoding categorical variab
 - Handle missing values (fill or drop)
 - Encode categorical variables (Label Encoding / One-Hot Encoding)
 - Normalize or standardize numerical columns
-- Save the processed dataset to a CSV file
+- Save the processed dataset to a CSV file which is attached in this repository file name is "diamonds.csv"
 
 ## Requirements
 - Python 3.8+
